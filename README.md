@@ -48,7 +48,7 @@
         </a>
     </p>
     <p>
-        <img src="https://profile-counter.glitch.me/KurniawanIDX/count.svg" alt="Views" /> 
+        <img src="https://profile-counter.glitch.me/Bocchi-chan/count.svg" alt="Views" /> 
     </p>
 </div>
 
