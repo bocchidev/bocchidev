@@ -2,27 +2,19 @@
     <h1>Hewwo 👋</h1>
     <p>
         <img
-            src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=F762E0&center=true&vCenter=true&width=435&lines=Hello+there+%3CSandy%2F%3E;I'm+a+beginner+developer+%3E_;And+I+love+Bocchi-chan+%3E%3C"
+            src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=F762E0&center=true&vCenter=true&width=435&lines=Hello+there!;I'm+a+beginner+developer+%3E_;And+I+love+Bocchi-chan+%3E%3C"
             width="auto"
             height="auto"
         />
     </p>
     <p>
         <img
-            src="https://media.tenor.com/c7fsPiG8UwIAAAAC/bocchi-the-rock-anime.gif"
-            width="400px"
+            src="https://media.tenor.com/1JuAyubK6zoAAAAC/bocchi-the-rock-hitori-gotoh.gif"
+            width="auto"
             height="auto"
         />
     </p>
     <p>
-        &emsp;
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-            <img
-                alt="C++"
-                src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"
-            />
-        </a>
-        &emsp;
         <a
             href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"
@@ -41,7 +33,6 @@
         </a>
     </p>
     <p>
-        &emsp;
         <a href="https://www.w3.org/html/" target="_blank">
             <img
                 alt="HTML"
