@@ -2,14 +2,14 @@
     <h1>Hewwo 👋</h1>
     <p>
         <img
-            src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=F762E0&center=true&vCenter=true&width=435&lines=Hello+there+%3CSandy%2F%3E;I'm+a+beginner+developer+%3E_;And+I+love+Gawr+Gura+%3E%3C"
+            src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=F762E0&center=true&vCenter=true&width=435&lines=Hello+there+%3CSandy%2F%3E;I'm+a+beginner+developer+%3E_;And+I+love+Bocchi-chan+%3E%3C"
             width="auto"
             height="auto"
         />
     </p>
     <p>
         <img
-            src="https://c.tenor.com/VU0A6lggN7UAAAAC/gawr-gura-gura.gif"
+            src="https://media.tenor.com/c7fsPiG8UwIAAAAC/bocchi-the-rock-anime.gif"
             width="400px"
             height="auto"
         />
