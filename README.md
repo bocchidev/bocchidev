@@ -70,10 +70,4 @@
             alt="Streak"
         />
     </p>
-    <p>
-        <img
-            src="https://activity-graph.herokuapp.com/graph?username=bocchidev&custom_title=Gotou+Hitori's+Contribution+Graph&theme=react-dark"
-            alt="Graph"
-        />
-    </p>
 </div>
